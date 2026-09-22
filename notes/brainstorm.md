@@ -51,3 +51,9 @@ Dumping everything here first, narrowing down after.
 - Where from: My previous healthcare research co-op. Alumni panel: Amy Tai on healthcare in grad school, and Thomas and Zach on Open Banking where the customer owns their data. It's the same idea applied to health data.
 
 Footnote check: 1, 2, 4 and 6 trace to panels. 1, 4 and 6 aren't student-specific. OK.
+
+## Picking two
+
+I ranked the six on how much I care, whether I can research it properly from public sources in under four weeks, and whether there's a realistic solution at the end using what we learn in MSE. Doomscroll fatigue is real but the data I'd need lives inside TikTok and Instagram, so I'd mostly be guessing. Local AI on laptops is the one I know best, but that's the issue, I already have a solution in my head and this stage is supposed to be about the problem. Transit and health data both need an agency or a hospital to hand me data, which isn't happening solo. That leaves notifications and losing your place when you switch apps. They're really the same underlying thing (your apps end up deciding where your attention goes), they affect pretty much everyone with a phone and a laptop, there's a lot of HCI research to build on, and Apple, Google and Microsoft all shipped something in the last year I can benchmark against. They also line up with ML and on-device inference, where I'm strongest. I'm bringing both to the peer critique because I'm not sure if they're one problem or two.
+
+Going with 1 and 3. Plans are in notifications.md and context switching.md.
