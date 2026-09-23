@@ -40,3 +40,9 @@ Everything I've cited so far. Adding as I go.
 - Wikipedia. Windows Recall. https://en.wikipedia.org/wiki/Windows_Recall
 - GeekWire. One year after its rocky launch, Microsoft's Windows Recall still raises security red flags (2026). https://www.geekwire.com/2026/one-year-after-its-rocky-launch-microsofts-windows-recall-still-raises-security-red-flags/
 - TechCrunch. a16z-backed Rewind pivots to build AI-powered pendant to record your conversations (Apr 17, 2024). https://techcrunch.com/2024/04/17/a16z-backed-rewind-pivots-to-build-ai-powered-pendant-to-record-your-conversations/
+
+## Todo
+
+- Actually run the Scopus strings and add what comes up
+- App store reviews for BuzzKill and FilterBox
+- The Reddit threads
